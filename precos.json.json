@@ -1,0 +1,730 @@
+[
+    {
+        "codigo": "16-104",
+        "modelo": "iPhone 16 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 16 Pro Max",
+                "valor": 1199.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-103",
+        "modelo": "iPhone 16 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 16 Pro",
+                "valor": 999.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-101",
+        "modelo": "iPhone 16",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 16",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-100",
+        "modelo": "iPhone 16e",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 16e",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-104",
+        "modelo": "iPhone 15 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 15 Pro Max",
+                "valor": 849.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-103",
+        "modelo": "iPhone 15 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 15 Pro",
+                "valor": 849.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-102",
+        "modelo": "iPhone 15 Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 15 Plus",
+                "valor": 899.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-101",
+        "modelo": "iPhone 15",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 15",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-104",
+        "modelo": "iPhone 14 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 14 Pro Max",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-103",
+        "modelo": "iPhone 14 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 14 Pro",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-102",
+        "modelo": "iPhone 14 Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 14 Plus",
+                "valor": 899.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-101",
+        "modelo": "iPhone 14",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 14",
+                "valor": 699.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-104",
+        "modelo": "iPhone 13 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 13 Pro Max",
+                "valor": 659.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-103",
+        "modelo": "iPhone 13 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 13 Pro",
+                "valor": 649.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-102",
+        "modelo": "iPhone 13 mini",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 13 mini",
+                "valor": 499.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-101",
+        "modelo": "iPhone 13",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 13",
+                "valor": 499.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-104",
+        "modelo": "iPhone 12 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 12 Pro Max",
+                "valor": 499.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-103",
+        "modelo": "iPhone 12 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 12 Pro",
+                "valor": 399.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-102",
+        "modelo": "iPhone 12",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 12",
+                "valor": 399.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-101",
+        "modelo": "iPhone 12 mini",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 12 mini",
+                "valor": 399.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-104",
+        "modelo": "iPhone 11 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 11 Pro Max",
+                "valor": 449.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-103",
+        "modelo": "iPhone 11 Pro",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 11 Pro",
+                "valor": 449.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-102",
+        "modelo": "iPhone 11",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 11",
+                "valor": 349.9
+            }
+        ]
+    },
+    {
+        "codigo": "10-104",
+        "modelo": "iPhone XS Max",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone XS Max",
+                "valor": 349.9
+            }
+        ]
+    },
+    {
+        "codigo": "10-103",
+        "modelo": "iPhone XS",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone XS",
+                "valor": 349.9
+            }
+        ]
+    },
+    {
+        "codigo": "10-102",
+        "modelo": "iPhone XR",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone XR",
+                "valor": 299.9
+            }
+        ]
+    },
+    {
+        "codigo": "9-104",
+        "modelo": "iPhone X",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone X",
+                "valor": 299.9
+            }
+        ]
+    },
+    {
+        "codigo": "8-104",
+        "modelo": "iPhone 8 Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 8 Plus",
+                "valor": 229.9
+            }
+        ]
+    },
+    {
+        "codigo": "8-103",
+        "modelo": "iPhone 8",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 8",
+                "valor": 249.9
+            }
+        ]
+    },
+    {
+        "codigo": "7-104",
+        "modelo": "iPhone 7 Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 7 Plus",
+                "valor": 229.9
+            }
+        ]
+    },
+    {
+        "codigo": "7-103",
+        "modelo": "iPhone 7",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 7",
+                "valor": 229.9
+            }
+        ]
+    },
+    {
+        "codigo": "6-104",
+        "modelo": "iPhone 6s Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 6s Plus",
+                "valor": 199.9
+            }
+        ]
+    },
+    {
+        "codigo": "6-103",
+        "modelo": "iPhone 6s",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 6s",
+                "valor": 199.9
+            }
+        ]
+    },
+    {
+        "codigo": "6-102",
+        "modelo": "iPhone 6 Plus",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 6 Plus",
+                "valor": 199.9
+            }
+        ]
+    },
+    {
+        "codigo": "6-101",
+        "modelo": "iPhone 6",
+        "opcoes": [
+            {
+                "nome": "Bateria iPhone 6",
+                "valor": 199.9
+            }
+        ]
+    },
+    {
+        "codigo": "X-101",
+        "modelo": "iPhone X",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone X LCD",
+                "valor": 549.9
+            },
+            {
+                "nome": "Frontal iPhone X OLED",
+                "valor": 799.9
+            }
+        ]
+    },
+    {
+        "codigo": "X-102",
+        "modelo": "iPhone Xs",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone Xs LCD",
+                "valor": 579.9
+            },
+            {
+                "nome": "Frontal iPhone Xs OLED",
+                "valor": 849.9
+            }
+        ]
+    },
+    {
+        "codigo": "X-103",
+        "modelo": "iPhone Xs Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone Xs Max LCD",
+                "valor": 599.9
+            },
+            {
+                "nome": "Frontal iPhone Xs Max OLED",
+                "valor": 899.9
+            }
+        ]
+    },
+    {
+        "codigo": "X-104",
+        "modelo": "iPhone Xr",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone Xr LCD",
+                "valor": 529.9
+            },
+            {
+                "nome": "Frontal iPhone Xr OLED",
+                "valor": 749.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-101",
+        "modelo": "iPhone 11",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 11 LCD",
+                "valor": 649.9
+            },
+            {
+                "nome": "Frontal iPhone 11 OLED",
+                "valor": 949.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-102",
+        "modelo": "iPhone 11 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 11 Pro LCD",
+                "valor": 699.9
+            },
+            {
+                "nome": "Frontal iPhone 11 Pro OLED",
+                "valor": 1049.9
+            }
+        ]
+    },
+    {
+        "codigo": "11-103",
+        "modelo": "iPhone 11 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 11 Pro Max LCD",
+                "valor": 749.9
+            },
+            {
+                "nome": "Frontal iPhone 11 Pro Max OLED",
+                "valor": 1149.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-101",
+        "modelo": "iPhone 12",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 12 LCD",
+                "valor": 849.9
+            },
+            {
+                "nome": "Frontal iPhone 12 OLED",
+                "valor": 1249.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-102",
+        "modelo": "iPhone 12 Mini",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 12 Mini LCD",
+                "valor": 799.9
+            },
+            {
+                "nome": "Frontal iPhone 12 Mini OLED",
+                "valor": 1149.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-103",
+        "modelo": "iPhone 12 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 12 Pro LCD",
+                "valor": 899.9
+            },
+            {
+                "nome": "Frontal iPhone 12 Pro OLED",
+                "valor": 1349.9
+            }
+        ]
+    },
+    {
+        "codigo": "12-104",
+        "modelo": "iPhone 12 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 12 Pro Max LCD",
+                "valor": 949.9
+            },
+            {
+                "nome": "Frontal iPhone 12 Pro Max OLED",
+                "valor": 1449.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-101",
+        "modelo": "iPhone 13",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 13 LCD",
+                "valor": 949.9
+            },
+            {
+                "nome": "Frontal iPhone 13 OLED",
+                "valor": 1399.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-102",
+        "modelo": "iPhone 13 Mini",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 13 Mini LCD",
+                "valor": 899.9
+            },
+            {
+                "nome": "Frontal iPhone 13 Mini OLED",
+                "valor": 1299.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-103",
+        "modelo": "iPhone 13 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 13 Pro LCD",
+                "valor": 1049.9
+            },
+            {
+                "nome": "Frontal iPhone 13 Pro OLED",
+                "valor": 1549.9
+            }
+        ]
+    },
+    {
+        "codigo": "13-104",
+        "modelo": "iPhone 13 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 13 Pro Max LCD",
+                "valor": 1099.9
+            },
+            {
+                "nome": "Frontal iPhone 13 Pro Max OLED",
+                "valor": 1599.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-101",
+        "modelo": "iPhone 14",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 14 LCD",
+                "valor": 1149.9
+            },
+            {
+                "nome": "Frontal iPhone 14 OLED",
+                "valor": 1649.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-102",
+        "modelo": "iPhone 14 Plus",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 14 Plus LCD",
+                "valor": 1199.9
+            },
+            {
+                "nome": "Frontal iPhone 14 Plus OLED",
+                "valor": 1749.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-103",
+        "modelo": "iPhone 14 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 14 Pro LCD",
+                "valor": 1299.9
+            },
+            {
+                "nome": "Frontal iPhone 14 Pro OLED",
+                "valor": 1849.9
+            }
+        ]
+    },
+    {
+        "codigo": "14-104",
+        "modelo": "iPhone 14 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 14 Pro Max LCD",
+                "valor": 1399.9
+            },
+            {
+                "nome": "Frontal iPhone 14 Pro Max OLED",
+                "valor": 1899.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-101",
+        "modelo": "iPhone 15",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 15 LCD",
+                "valor": 1499.9
+            },
+            {
+                "nome": "Frontal iPhone 15 OLED",
+                "valor": 1999.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-102",
+        "modelo": "iPhone 15 Plus",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 15 Plus LCD",
+                "valor": 1549.9
+            },
+            {
+                "nome": "Frontal iPhone 15 Plus OLED",
+                "valor": 2099.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-103",
+        "modelo": "iPhone 15 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 15 Pro LCD",
+                "valor": 1699.9
+            },
+            {
+                "nome": "Frontal iPhone 15 Pro OLED",
+                "valor": 2299.9
+            }
+        ]
+    },
+    {
+        "codigo": "15-104",
+        "modelo": "iPhone 15 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 15 Pro Max LCD",
+                "valor": 1799.9
+            },
+            {
+                "nome": "Frontal iPhone 15 Pro Max OLED",
+                "valor": 2399.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-101",
+        "modelo": "iPhone 16",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 16 LCD",
+                "valor": 1899.9
+            },
+            {
+                "nome": "Frontal iPhone 16 OLED",
+                "valor": 2499.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-102",
+        "modelo": "iPhone 16 Plus",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 16 Plus LCD",
+                "valor": 1949.9
+            },
+            {
+                "nome": "Frontal iPhone 16 Plus OLED",
+                "valor": 2599.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-103",
+        "modelo": "iPhone 16 Pro",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 16 Pro LCD",
+                "valor": 2099.9
+            },
+            {
+                "nome": "Frontal iPhone 16 Pro OLED",
+                "valor": 2799.9
+            }
+        ]
+    },
+    {
+        "codigo": "16-104",
+        "modelo": "iPhone 16 Pro Max",
+        "opcoes": [
+            {
+                "nome": "Frontal iPhone 16 Pro Max LCD",
+                "valor": 2199.9
+            },
+            {
+                "nome": "Frontal iPhone 16 Pro Max OLED",
+                "valor": 2999.9
+            }
+        ]
+    }
+]
