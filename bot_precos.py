@@ -1,15 +1,4 @@
-import json
-import logging
-import os
-from telegram import Update
-from telegram.ext import (
-    ApplicationBuilder, CommandHandler, MessageHandler,
-    ConversationHandler, filters, ContextTypes
-)
-
-logging.basicConfig(level=logging.INFO)
-
-# --- CARREGAR TODOS OS JSONs ---
+# --- CARREGAR TODOS OS JSONs DA PASTA ---
 def carregar_todos_json():
     dados_completos = []
     precos_dict = {}
@@ -20,21 +9,27 @@ def carregar_todos_json():
                 with open(arquivo, "r", encoding="utf-8") as f:
                     dados = json.load(f)
 
-                # Ignora arquivos vazios ou mal formatados
-                if not isinstance(dados, list):
-                    continue
+                # Se for lista, mantém a lógica antiga
+                if isinstance(dados, list):
+                    dados_completos.extend(dados)
+                    for item in dados:
+                        for opcao in item.get("opcoes", []):
+                            nome = opcao.get("nome", "").lower()
+                            valor = opcao.get("valor", 0)
+                            if nome:
+                                precos_dict[nome] = valor
+                # Se for dicionário simples, adiciona direto no PRECOS
+                elif isinstance(dados, dict):
+                    for nome, valor in dados.items():
+                        precos_dict[nome.lower()] = valor
 
-                dados_completos.extend(dados)
-
-                for item in dados:
-                    for opcao in item.get("opcoes", []):
-                        nome = opcao.get("nome", "").lower()
-                        valor = opcao.get("valor", 0)
-                        if nome:
-                            precos_dict[nome] = valor
             except Exception as e:
-                print(f"Erro ao ler {arquivo}: {e}")
+                logging.error(f"Erro ao ler {arquivo}: {e}")
+
     return dados_completos, precos_dict
+
+DADOS, PRECOS = carregar_todos_json()
+
 
 DADOS, PRECOS = carregar_todos_json()
 
