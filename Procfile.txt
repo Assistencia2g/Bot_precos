@@ -1,4 +1,0 @@
-worker: python bot_precos.py
-requests
-
-
